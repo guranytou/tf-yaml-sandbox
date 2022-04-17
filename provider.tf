@@ -4,7 +4,7 @@ terraform {
       source  = "hashicorp/aws"
       version = "4.10.0"
     }
-  }    
+  }
 }
 
 variable "AWS_ACCESS_KEY_ID" {
