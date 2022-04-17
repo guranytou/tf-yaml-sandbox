@@ -1,0 +1,2 @@
+# tf-yaml-sandbox
+yamlで作成したリストをTFで読み込んで動かしてみるリポジトリ
